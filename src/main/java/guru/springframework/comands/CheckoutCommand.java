@@ -1,8 +1,8 @@
 package guru.springframework.comands;
 
+import jakarta.validation.constraints.Size;
 import org.hibernate.validator.constraints.NotEmpty;
 
-import javax.validation.constraints.Size;
 
 /**
  * Created by jt on 2/1/16.
